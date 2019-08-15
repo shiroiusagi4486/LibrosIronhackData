@@ -1,0 +1,39 @@
+Fuentes de consulta curso Inteligencia artificial UNAM
+
+Aguilar, W., Santamaría Bonfil, G., Froese, T., and Gershenson, C. (2014). The past, present, and future of artificial life. Frontiers in Robotics and AI, 1(8). https://www.frontiersin.org/articles/10.3389/frobt.2014.00008/full
+
+Andy Clark, David J Chalmers (January 1998). "The extended mind". Analysis. 58 (1): 7–19. doi:10.1093/analys/58.1.7
+
+Bonnefon, Jean-François; Shariff, Azim; Rahwan, Iyad (2016). "The social dilemma of autonomous vehicles". Science. 352 (6293): 1573–1576. https://doi.org/10.1126%2Fscience.aaf2654
+
+Brooks, R. A. (1991). Intelligence without reason. Proceedings of the 12th International Joint Conference on Artificial Intelligence. Morgan Kauffman.
+
+Brooks, R. A., (1990). Elephants Don't Play Chess, Robotics and Autonomous Systems Vol. 6, pp. 3-15.
+
+Clark, A. (1997). Being There: putting brain, body, and world together again. MIT Press, Cambridge, MA.
+
+Clark, Andy (2004). Natural-Born Cyborgs: Minds, Technologies, and the Future of Human Intelligence. Oxford University Press.
+
+Downing, K. L. (2015). Intelligence Emerging: Adaptivity and Search in Evolving Neural Systems. MIT Press, Cambridge, MA, USA.
+
+Gershenson, C. (2004). Cognitive paradigms: Which one is the best? Cognitive Systems Research, 5(2):135–156. http://dx.doi.org/10.1016/j.cogsys.2003.10.002
+
+Gershenson, C. (2013). ¿Cómo medir la inteligencia de las máquinas? Ciencia 64(4):18-23. Número especial sobre Alan Turing y la Computación. http://www.revistaciencia.amc.edu.mx/images/revista/64_4/PDF/MedirInteligenciaMaquinas.pdf
+
+Gershenson, C. (2015). Enfrentando a la complejidad: Predecir vs. adaptar. In Massip, A. and Bastardas, A., editors, Complexica: cervell, societat i llengua des de la transdisciplinarietat, Cap 1, pp. 25–38. Universitat de Barcelona, Barcelona. http://arxiv.org/abs/0905.4908
+
+Minsky, M. 1968. Semantic Information Processing. Cambridge, MA: MIT Press.
+
+Minsky, M. 1986. The Society of Mind, MIT Press.
+
+Minsky, M. 2006. The Emotion Machine, MIT Press.
+
+Murray Shanahan (2015). The Technological Singularity. MIT Press.
+
+Newell, A., and Simon, H. 1972. Human Problem Solving. Englewood Cliffs, NJ: Prentice-Hall.
+
+Simon, H. A. (1996). The Sciences of the Artificial. MIT Press, 3rd edition.
+
+Steels, L. (1995). Building agents out of autonomous behavior systems. In Steels, L. and Brooks, R. A., editors, The Artificial Life Route to Artificial Intelligence: Building Embodied Situated Agents. Lawrence Erlbaum.
+
+Turing, A. M. 1950. Computing Machinery and Intelligence. Mind 59: 433–460. https://www.csee.umbc.edu/courses/471/papers/turing.pdf 
